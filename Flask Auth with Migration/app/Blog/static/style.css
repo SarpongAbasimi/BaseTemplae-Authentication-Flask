@@ -1,0 +1,15 @@
+/* Login and Register Style */
+
+#register_form_container{
+  width: 300px;
+  margin-top: 50px;
+}
+
+#login_form_container{
+  width: 400px;
+  margin-top: 50px;
+}
+
+#login_legend{
+  font-weight: bold;
+}
